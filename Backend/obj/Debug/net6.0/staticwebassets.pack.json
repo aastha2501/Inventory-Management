@@ -1,0 +1,101 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\React Assignment\\Backend\\Backend\\wwwroot\\Images\\0d269fa2-d869-4eb3-9712-76f7ecb1c227.jpeg",
+      "PackagePath": "staticwebassets\\Images\\0d269fa2-d869-4eb3-9712-76f7ecb1c227.jpeg"
+    },
+    {
+      "Id": "E:\\React Assignment\\Backend\\Backend\\wwwroot\\Images\\11bba921-4db7-4ca4-bf52-27e9db5f0710.jpeg",
+      "PackagePath": "staticwebassets\\Images\\11bba921-4db7-4ca4-bf52-27e9db5f0710.jpeg"
+    },
+    {
+      "Id": "E:\\React Assignment\\Backend\\Backend\\wwwroot\\Images\\16c92315-a24f-49c4-a037-759b947cff4d.jpeg",
+      "PackagePath": "staticwebassets\\Images\\16c92315-a24f-49c4-a037-759b947cff4d.jpeg"
+    },
+    {
+      "Id": "E:\\React Assignment\\Backend\\Backend\\wwwroot\\Images\\1cae6a7e-e6d8-4832-8b65-5c9a1d715764.jpeg",
+      "PackagePath": "staticwebassets\\Images\\1cae6a7e-e6d8-4832-8b65-5c9a1d715764.jpeg"
+    },
+    {
+      "Id": "E:\\React Assignment\\Backend\\Backend\\wwwroot\\Images\\25b27971-7b49-4593-911f-e1c35dcf2b1f.jpeg",
+      "PackagePath": "staticwebassets\\Images\\25b27971-7b49-4593-911f-e1c35dcf2b1f.jpeg"
+    },
+    {
+      "Id": "E:\\React Assignment\\Backend\\Backend\\wwwroot\\Images\\292201bf-b991-494c-93b2-4d5ab3f032a2.jpeg",
+      "PackagePath": "staticwebassets\\Images\\292201bf-b991-494c-93b2-4d5ab3f032a2.jpeg"
+    },
+    {
+      "Id": "E:\\React Assignment\\Backend\\Backend\\wwwroot\\Images\\3277cf9d-64f2-4966-9cca-3ccab3e8028a.jpeg",
+      "PackagePath": "staticwebassets\\Images\\3277cf9d-64f2-4966-9cca-3ccab3e8028a.jpeg"
+    },
+    {
+      "Id": "E:\\React Assignment\\Backend\\Backend\\wwwroot\\Images\\58b4ff86-83a7-43c8-81e0-ca7bf5826817.jpeg",
+      "PackagePath": "staticwebassets\\Images\\58b4ff86-83a7-43c8-81e0-ca7bf5826817.jpeg"
+    },
+    {
+      "Id": "E:\\React Assignment\\Backend\\Backend\\wwwroot\\Images\\6276e882-b14c-4d58-9e42-392e93d431b5.jpeg",
+      "PackagePath": "staticwebassets\\Images\\6276e882-b14c-4d58-9e42-392e93d431b5.jpeg"
+    },
+    {
+      "Id": "E:\\React Assignment\\Backend\\Backend\\wwwroot\\Images\\6a1db2e2-721d-40ae-8faa-5b8db22add57.jpeg",
+      "PackagePath": "staticwebassets\\Images\\6a1db2e2-721d-40ae-8faa-5b8db22add57.jpeg"
+    },
+    {
+      "Id": "E:\\React Assignment\\Backend\\Backend\\wwwroot\\Images\\73906791-6a59-4909-8ef0-915363218c61.jpeg",
+      "PackagePath": "staticwebassets\\Images\\73906791-6a59-4909-8ef0-915363218c61.jpeg"
+    },
+    {
+      "Id": "E:\\React Assignment\\Backend\\Backend\\wwwroot\\Images\\91a7e586-551c-4dc8-b6e9-19eba8af290c.jpeg",
+      "PackagePath": "staticwebassets\\Images\\91a7e586-551c-4dc8-b6e9-19eba8af290c.jpeg"
+    },
+    {
+      "Id": "E:\\React Assignment\\Backend\\Backend\\wwwroot\\Images\\bc1bec76-bbe1-41ae-82cc-e67d5c729458.jpeg",
+      "PackagePath": "staticwebassets\\Images\\bc1bec76-bbe1-41ae-82cc-e67d5c729458.jpeg"
+    },
+    {
+      "Id": "E:\\React Assignment\\Backend\\Backend\\wwwroot\\Images\\c78d770b-15ef-486a-b6c0-3ad044063a29.jpeg",
+      "PackagePath": "staticwebassets\\Images\\c78d770b-15ef-486a-b6c0-3ad044063a29.jpeg"
+    },
+    {
+      "Id": "E:\\React Assignment\\Backend\\Backend\\wwwroot\\Images\\cbd6f4e9-2bc5-4682-8d01-cbd3a33ed080.jpeg",
+      "PackagePath": "staticwebassets\\Images\\cbd6f4e9-2bc5-4682-8d01-cbd3a33ed080.jpeg"
+    },
+    {
+      "Id": "E:\\React Assignment\\Backend\\Backend\\wwwroot\\Images\\dba5a415-c77f-4dad-aeac-83d59a976692.avif",
+      "PackagePath": "staticwebassets\\Images\\dba5a415-c77f-4dad-aeac-83d59a976692.avif"
+    },
+    {
+      "Id": "E:\\React Assignment\\Backend\\Backend\\wwwroot\\Images\\dc45921b-86f3-4795-8cb4-b1a0e03e452c.jpeg",
+      "PackagePath": "staticwebassets\\Images\\dc45921b-86f3-4795-8cb4-b1a0e03e452c.jpeg"
+    },
+    {
+      "Id": "E:\\React Assignment\\Backend\\Backend\\wwwroot\\Images\\e7de7919-216a-4f80-b818-e712ea50be07.jpeg",
+      "PackagePath": "staticwebassets\\Images\\e7de7919-216a-4f80-b818-e712ea50be07.jpeg"
+    },
+    {
+      "Id": "E:\\React Assignment\\Backend\\Backend\\wwwroot\\Images\\fa24d4d3-180b-41e3-a425-8e55c018028d.jpeg",
+      "PackagePath": "staticwebassets\\Images\\fa24d4d3-180b-41e3-a425-8e55c018028d.jpeg"
+    },
+    {
+      "Id": "E:\\React Assignment\\Backend\\Backend\\wwwroot\\Images\\fb9fb97c-a169-4f9c-bf53-411cb7561485.jpeg",
+      "PackagePath": "staticwebassets\\Images\\fb9fb97c-a169-4f9c-bf53-411cb7561485.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Backend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Backend.props",
+      "PackagePath": "build\\Backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Backend.props",
+      "PackagePath": "buildMultiTargeting\\Backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Backend.props",
+      "PackagePath": "buildTransitive\\Backend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

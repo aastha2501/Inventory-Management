@@ -1,0 +1,17 @@
+E:\React Assignment\Backend\DAL\bin\Debug\net6.0\DAL.deps.json
+E:\React Assignment\Backend\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+E:\React Assignment\Backend\DAL\bin\Debug\net6.0\DAL.dll
+E:\React Assignment\Backend\DAL\bin\Debug\net6.0\DAL.pdb
+E:\React Assignment\Backend\DAL\bin\Debug\net6.0\Common.dll
+E:\React Assignment\Backend\DAL\bin\Debug\net6.0\Common.pdb
+E:\React Assignment\Backend\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+E:\React Assignment\Backend\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\React Assignment\Backend\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+E:\React Assignment\Backend\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+E:\React Assignment\Backend\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+E:\React Assignment\Backend\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+E:\React Assignment\Backend\DAL\obj\Debug\net6.0\DAL.dll
+E:\React Assignment\Backend\DAL\obj\Debug\net6.0\refint\DAL.dll
+E:\React Assignment\Backend\DAL\obj\Debug\net6.0\DAL.pdb
+E:\React Assignment\Backend\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+E:\React Assignment\Backend\DAL\obj\Debug\net6.0\ref\DAL.dll

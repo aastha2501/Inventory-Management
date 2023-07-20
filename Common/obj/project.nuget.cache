@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MGvW+b9NAbgy76559/O3m/XvjFxY/T3bUOWRzZqBdeF0vI0bKnAtOzpi9bM+i8xuvd/VzYvfIKFdM4DwWjDH/g==",
+  "success": true,
+  "projectFilePath": "E:\\React Assignment\\Backend\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
