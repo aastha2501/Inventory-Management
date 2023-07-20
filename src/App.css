@@ -1,0 +1,112 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+/* .App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+} */
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Login */
+/* .Wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center; */
+  /* } */
+
+.loginWrapper {
+  width: 500px;
+  background-color: rgb(28, 24, 24);
+}
+
+
+.custom-link {
+  /* Add your custom styles for the Login link here */
+  background-color: #f0f0f0; /* Example: Set the background color to light gray */
+  /* Add any additional styles as needed */
+  color: white;
+}
+.nav-link {
+  color: white;
+}
+
+
+.form{
+  padding: 2rem;
+  background-color: #212529;
+  color: white;
+}
+.form-error{
+  color: rgb(202, 9, 9);
+}
+
+/* admin dashboard */
+
+
+/*home */
+.homeWrapper {
+  background-image: url('https://images.unsplash.com/photo-1540760938999-077b8231d890?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80') ;
+  height: 90vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+/* user home */
+.header {
+  margin: 1rem auto;
+  background-color: #7d7e7f;
+  padding: .5rem;
+  color: white;
+  width: 200px;
+  text-align: center;
+
+}
+
+/* invoice */
+.invoiceWrapper {
+  display: flex;
+  justify-content: end;
+  align-items: end;
+  margin-top: 1rem;
+  flex-direction: column;
+  margin-right: 0;
+}
+.invoice {
+  
+  width: 20rem;
+  padding: 1rem;
+}
